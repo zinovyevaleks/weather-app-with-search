@@ -1,4 +1,4 @@
-const API_KEY = "2e05526b15464b0f88f7b9931aa2b771";
+const API_KEY = "eb08187287654ccf93cbd112860f4df2";
 
 export const getCoordinatesForCity = async (city: string) => {
   try {
